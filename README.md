@@ -17,7 +17,7 @@
 
 🌐 SSAFY 6th
 
-🌐 Algorith Study
+🌐 Algorithm Study
 
 <!--
 **ljy0513/ljy0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
